@@ -1,0 +1,12 @@
+com\cazcode\todoapp\persistence\entity\Task.class
+com\cazcode\todoapp\controller\TaskController.class
+com\cazcode\todoapp\mapper\IMapper.class
+com\cazcode\todoapp\exception\ExceptionHandler.class
+com\cazcode\todoapp\service\TaskService.class
+com\cazcode\todoapp\mapper\TaskInDtotoTask.class
+com\cazcode\todoapp\persistence\repository\TaskRepository.class
+com\cazcode\todoapp\exception\ToDoExceptions.class
+com\cazcode\todoapp\TodoappApplication.class
+com\cazcode\todoapp\persistence\entity\TaskStatus.class
+com\cazcode\todoapp\context\SwaggerConfig.class
+com\cazcode\todoapp\service\dto\TaskInDto.class

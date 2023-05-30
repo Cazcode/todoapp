@@ -1,0 +1,10 @@
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\controller\TaskController.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\persistence\entity\Task.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\service\TaskService.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\mapper\TaskInDtotoTask.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\persistence\entity\TaskStatus.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\TodoappApplication.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\mapper\IMapper.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\context\SwaggerConfig.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\persistence\repository\TaskRepository.java
+G:\Downloads\template_springboot\todoapp\src\main\java\com\cazcode\todoapp\service\dto\TaskInDto.java
